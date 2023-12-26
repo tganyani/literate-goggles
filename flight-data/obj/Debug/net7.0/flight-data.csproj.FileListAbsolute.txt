@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/flight-data/bin/Debug/net7.0/flight-data
+/workspaces/codespaces-blank/flight-data/bin/Debug/net7.0/flight-data.deps.json
+/workspaces/codespaces-blank/flight-data/bin/Debug/net7.0/flight-data.runtimeconfig.json
+/workspaces/codespaces-blank/flight-data/bin/Debug/net7.0/flight-data.dll
+/workspaces/codespaces-blank/flight-data/bin/Debug/net7.0/flight-data.pdb
+/workspaces/codespaces-blank/flight-data/obj/Debug/net7.0/flight-data.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/flight-data/obj/Debug/net7.0/flight-data.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/flight-data/obj/Debug/net7.0/flight-data.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/flight-data/obj/Debug/net7.0/flight-data.AssemblyInfo.cs
+/workspaces/codespaces-blank/flight-data/obj/Debug/net7.0/flight-data.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/flight-data/obj/Debug/net7.0/flight-data.dll
+/workspaces/codespaces-blank/flight-data/obj/Debug/net7.0/refint/flight-data.dll
+/workspaces/codespaces-blank/flight-data/obj/Debug/net7.0/flight-data.pdb
+/workspaces/codespaces-blank/flight-data/obj/Debug/net7.0/flight-data.genruntimeconfig.cache
+/workspaces/codespaces-blank/flight-data/obj/Debug/net7.0/ref/flight-data.dll

@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/MyFirstProgram/bin/Debug/net7.0/MyFirstProgram
+/workspaces/codespaces-blank/MyFirstProgram/bin/Debug/net7.0/MyFirstProgram.deps.json
+/workspaces/codespaces-blank/MyFirstProgram/bin/Debug/net7.0/MyFirstProgram.runtimeconfig.json
+/workspaces/codespaces-blank/MyFirstProgram/bin/Debug/net7.0/MyFirstProgram.dll
+/workspaces/codespaces-blank/MyFirstProgram/bin/Debug/net7.0/MyFirstProgram.pdb
+/workspaces/codespaces-blank/MyFirstProgram/obj/Debug/net7.0/MyFirstProgram.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/MyFirstProgram/obj/Debug/net7.0/MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/MyFirstProgram/obj/Debug/net7.0/MyFirstProgram.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/MyFirstProgram/obj/Debug/net7.0/MyFirstProgram.AssemblyInfo.cs
+/workspaces/codespaces-blank/MyFirstProgram/obj/Debug/net7.0/MyFirstProgram.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/MyFirstProgram/obj/Debug/net7.0/MyFirstProgram.dll
+/workspaces/codespaces-blank/MyFirstProgram/obj/Debug/net7.0/refint/MyFirstProgram.dll
+/workspaces/codespaces-blank/MyFirstProgram/obj/Debug/net7.0/MyFirstProgram.pdb
+/workspaces/codespaces-blank/MyFirstProgram/obj/Debug/net7.0/MyFirstProgram.genruntimeconfig.cache
+/workspaces/codespaces-blank/MyFirstProgram/obj/Debug/net7.0/ref/MyFirstProgram.dll

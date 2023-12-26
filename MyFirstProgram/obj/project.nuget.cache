@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "RJyAieN8JC49gD1EGWlXnod5VBIKr3hZSBSkDXA9XCYm6UkPgwlQNNQaSZn+5WZgH9O1zT55zqE/xY/IWI+AQw==",
+  "success": true,
+  "projectFilePath": "/workspaces/codespaces-blank/MyFirstProgram/MyFirstProgram.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/oxyplot.core/2014.1.546/oxyplot.core.2014.1.546.nupkg.sha512",
+    "/home/codespace/.nuget/packages/oxyplot.windowsforms/2014.1.546/oxyplot.windowsforms.2014.1.546.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'OxyPlot.Core 2014.1.546' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "OxyPlot.Core",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'OxyPlot.WindowsForms 2014.1.546' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "OxyPlot.WindowsForms",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

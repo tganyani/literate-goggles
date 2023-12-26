@@ -1,0 +1,7 @@
+/workspaces/codespaces-blank/postgresql-demo/obj/Debug/net7.0/postgresql-demo.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/postgresql-demo/obj/Debug/net7.0/postgresql-demo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/postgresql-demo/obj/Debug/net7.0/postgresql-demo.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/postgresql-demo/obj/Debug/net7.0/postgresql-demo.AssemblyInfo.cs
+/workspaces/codespaces-blank/postgresql-demo/obj/Debug/net7.0/postgresql-demo.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/postgresql-demo/obj/Debug/net7.0/postgresql-demo.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/codespaces-blank/postgresql-demo/obj/Debug/net7.0/postgresql-demo.MvcApplicationPartsAssemblyInfo.cache

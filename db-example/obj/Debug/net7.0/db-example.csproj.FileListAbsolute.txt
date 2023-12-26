@@ -1,0 +1,5 @@
+/workspaces/codespaces-blank/db-example/obj/Debug/net7.0/db-example.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/db-example/obj/Debug/net7.0/db-example.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/db-example/obj/Debug/net7.0/db-example.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/db-example/obj/Debug/net7.0/db-example.AssemblyInfo.cs
+/workspaces/codespaces-blank/db-example/obj/Debug/net7.0/db-example.csproj.CoreCompileInputs.cache

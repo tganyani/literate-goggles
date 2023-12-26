@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/complex/obj/Debug/net7.0/complex.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/complex/obj/Debug/net7.0/complex.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/complex/obj/Debug/net7.0/complex.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/complex/obj/Debug/net7.0/complex.AssemblyInfo.cs
+/workspaces/codespaces-blank/complex/obj/Debug/net7.0/complex.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/complex/bin/Debug/net7.0/complex
+/workspaces/codespaces-blank/complex/bin/Debug/net7.0/complex.deps.json
+/workspaces/codespaces-blank/complex/bin/Debug/net7.0/complex.runtimeconfig.json
+/workspaces/codespaces-blank/complex/bin/Debug/net7.0/complex.dll
+/workspaces/codespaces-blank/complex/bin/Debug/net7.0/complex.pdb
+/workspaces/codespaces-blank/complex/obj/Debug/net7.0/complex.dll
+/workspaces/codespaces-blank/complex/obj/Debug/net7.0/refint/complex.dll
+/workspaces/codespaces-blank/complex/obj/Debug/net7.0/complex.pdb
+/workspaces/codespaces-blank/complex/obj/Debug/net7.0/complex.genruntimeconfig.cache
+/workspaces/codespaces-blank/complex/obj/Debug/net7.0/ref/complex.dll

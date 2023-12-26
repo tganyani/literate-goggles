@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="OxyPlot.Core" Version="2014.1.546" />
+    <PackageReference Include="OxyPlot.WindowsForms" Version="2014.1.546" />
+  </ItemGroup>
+
+</Project>
